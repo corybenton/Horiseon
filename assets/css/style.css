@@ -20,8 +20,9 @@ header h1 {
     font-size: 48px;
 }
 
+/*changes color for the seo in horiseon*/
 header h1 .seo {
-    color: #eeb1df;
+    color: #d9dcd6;
 }
 
 header nav {
@@ -31,24 +32,24 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
+/*orders the nav list in a single line*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*eliminates link look to nav header*/
 a {
     color: #ffffff; 
     text-decoration: none;
 }
 
+/*sets font size for all non-header text*/
 p {
     font-size: 16px;
 }
 
+/*sets size for main image on page*/
 #hero {
     height: 800px;
     width: 100%;
@@ -57,12 +58,14 @@ p {
     background-position: center;
 }
 
+/*makes main content boxes for 75% of the width of the  page*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*sets up boxes for main content on page*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -80,16 +83,19 @@ article h2 {
     font-size: 36px;
 }
 
+/*to put pictures to the left of the paragraph*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*to put pictures on the right of the paragraph*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*sets up the right side area*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,9 +103,10 @@ article h2 {
     float: right;
     width: 20%;
     height: 100%;
-    background-color: #a9ce06;
+    background-color: #2589bd;
 }
 
+/*sets font color for right side area*/
 .example {
     margin-bottom: 32px;
     color: #ffffff;
