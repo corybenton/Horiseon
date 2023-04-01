@@ -13,7 +13,6 @@ header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
-    position:fixed;
 }
 
 header h1 {
@@ -117,12 +116,10 @@ article h2 {
     font-size: 36px;
 }
 
+
 footer {
     padding: 30px;
     clear: both;
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
