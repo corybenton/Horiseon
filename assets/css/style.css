@@ -118,11 +118,13 @@ p {
     color: #ffffff;
 }
 
+/*header settings for right side area*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*setting for pictures above each paragraph on right side of area*/
 .example img {
     display: block;
     margin: 10px auto;
