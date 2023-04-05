@@ -12,13 +12,11 @@ Cory Benton - corybenton.github.io
 
 ## Version History
 0.2
-
--Website refactoring
--See commits
+- Website refactoring
+- See commits
 
 0.1
-
--Initial Release
+- Initial Release
 
 ## Acknowledgments
 Starter code provided by Coding Bootcamp
