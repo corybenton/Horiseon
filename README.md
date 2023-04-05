@@ -1,5 +1,5 @@
 # Horiseon
-## Horiseon Homepage Refactor
+Horiseon Homepage Refactor
 
 # Description
 This is a homepage for Horiseon, informing the user about the benefits of search-engine optimization and other benefits of Horiseon.
@@ -20,4 +20,4 @@ See commits
 Initial Release
 
 # Acknowledgments
-## Starter code provided by Coding Bootcamp
+Starter code provided by Coding Bootcamp
